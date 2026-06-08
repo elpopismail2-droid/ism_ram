@@ -53,11 +53,11 @@ return{
 
 startX:
 (Math.random()-0.5)
-*window.innerWidth*2,
+*window.innerWidth,
 
 startY:
 (Math.random()-0.5)
-*window.innerHeight*2,
+*window.innerHeight,
 
 x:0,
 y:0,
