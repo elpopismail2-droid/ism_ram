@@ -1,4 +1,4 @@
-function generateHeartPoints(count = 6000){
+function generateHeartPoints(count = 5000){
 
 const points=[];
 
