@@ -16,8 +16,8 @@ const y=
 -Math.cos(4*t));
 
 points.push({
-x:x*18,
-y:y*18
+x:x*13,
+y:y*13
 });
 
 }
@@ -63,8 +63,8 @@ const index=
 if(data[index+3]>100){
 
 points.push({
-x:(x-250)*0.55,
-y:(y-250)*0.55
+x:(x-250)*0.40,
+y:(y-250)*0.40
 });
 
 }
