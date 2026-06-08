@@ -135,7 +135,7 @@ let completed=0;
 
 heartParticles.forEach(p=>{
 
-p.progress+=0.004;
+p.progress+=0.008;
 
 if(p.progress>1)
 p.progress=1;
@@ -199,7 +199,7 @@ let completed=0;
 
 rParticles.forEach(p=>{
 
-p.progress+=0.006;
+p.progress+=0.008;
 
 if(p.progress>1)
 p.progress=1;
